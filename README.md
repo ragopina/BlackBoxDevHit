@@ -1,1 +1,1 @@
-# VeritideGenAi
+# Veritide
